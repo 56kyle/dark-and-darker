@@ -1,0 +1,14 @@
+{
+  "_output_dir": "C:\\Users\\56kyl\\source\\repos",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Kyle Oliver",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "56kyleoliver@gmail.com",
+  "friendly_name": "Dark and Darker",
+  "github_user": "56kyle",
+  "license": "MIT",
+  "package_name": "dark_and_darker",
+  "project_name": "dark-and-darker",
+  "version": "0.0.0"
+}
