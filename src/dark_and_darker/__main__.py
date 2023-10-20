@@ -5,7 +5,7 @@ import click
 @click.command()
 @click.version_option()
 def main() -> None:
-    """Dark and Darker."""
+    """A 3rd party CLI for interacting with Dark and Darker."""
 
 
 if __name__ == "__main__":
