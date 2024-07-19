@@ -1,4 +1,5 @@
 """Sphinx configuration."""
+
 project = "Dark and Darker"
 author = "Kyle Oliver"
 copyright = "2023, Kyle Oliver"
